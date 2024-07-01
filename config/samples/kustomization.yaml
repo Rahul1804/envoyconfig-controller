@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- mesh_v1alpha1_envoyconfig.yaml
+#+kubebuilder:scaffold:manifestskustomizesamples
